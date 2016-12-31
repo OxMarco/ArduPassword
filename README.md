@@ -12,3 +12,5 @@ A watchdog prevents the microcontroller from hanging and showing the last prompt
 - 2x 220 Ω resistors
 - 1x 10 kΩ potentiometer
 - jumpers, USB cable and breadboard
+
+More here: https://circuits.io/circuits/3614610-ardupassword
